@@ -101,7 +101,7 @@ Refer to the data‐loading sections in `Analyzing_data (1).ipynb` for full pipe
 | XGBoost + Interpolation (MICE)        |   0.98   |  0.07  |    0.17   |   0.10   |   5162    |
 | XGBoost + Recall‐Optimized Hyperparam |   0.54   |  0.80  |    0.03   |   0.05   |   1084    |
 
-> *Numbers are illustrative—see notebooks for exact metrics.*
+
 
 ---
 
