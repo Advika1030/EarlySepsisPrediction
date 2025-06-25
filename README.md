@@ -1,6 +1,6 @@
 # Early Sepsis Detection Project
 
-Welcome to the Sepsis Detection Project repository. This project explores multiple machine learning approaches to predict sepsis onset in ICU patients using the PhysioNet 2019 challenge dataset. Detailed Jupyter notebooks document data exploration, preprocessing, model training, and evaluation.
+This repository focuses on sepsis onset prediction in ICU patients using the PhysioNet 2019 Challenge dataset. It implements and benchmarks multiple ML models, with comprehensive Jupyter notebooks detailing time-series preprocessing, handling of missing data, feature engineering, class imbalance mitigation, and performance evaluation using metrics like F1-score and AUC.
 
 ---
 
